@@ -1,0 +1,15 @@
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\bin\Debug\net6.0\BolsaValores.exe
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\bin\Debug\net6.0\BolsaValores.deps.json
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\bin\Debug\net6.0\BolsaValores.runtimeconfig.json
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\bin\Debug\net6.0\BolsaValores.dll
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\bin\Debug\net6.0\ref\BolsaValores.dll
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\bin\Debug\net6.0\BolsaValores.pdb
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\BolsaValores.csproj.AssemblyReference.cache
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\BolsaValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\BolsaValores.AssemblyInfoInputs.cache
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\BolsaValores.AssemblyInfo.cs
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\BolsaValores.csproj.CoreCompileInputs.cache
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\BolsaValores.dll
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\ref\BolsaValores.dll
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\BolsaValores.pdb
+C:\Users\eniof\OneDrive\Documentos\Curso Dio\Auladotnet\ProjetoBolsadeValores\BolsaValores\obj\Debug\net6.0\BolsaValores.genruntimeconfig.cache
